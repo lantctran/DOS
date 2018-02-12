@@ -12,9 +12,9 @@
         {
         "TM_EVENT_GUID" : "bd02eb75-6add-4071-a516-a33adfcea762", 
         "FIRST_NAME" : "Jason",
-        "LAST_NAME" : "Hutchinson",
+        "LAST_NAME" : "Doe",
         "POSITION_TITLE" : "Political Officer",
-        "ASSIGNMENT_NUMBER" : 254375,
+        "ASSIGNMENT_NUMBER" : 123456,
         "ORG_NAME" : "BRUSSELSNATO",
         "ASSIGNMENT_DATE" : "01/01/2016",
         "EFFECTIVE_DATE" : "12/30/2015"
@@ -22,9 +22,9 @@
         {
             "TM_EVENT_GUID" : "bd02eb75-6add-4071-a516-a33adfcea762", 
             "FIRST_NAME" : "Brandon",
-            "LAST_NAME" : "Cerone",
+            "LAST_NAME" : "Doe",
             "POSITION_TITLE" : "Information Management Spec",
-            "ASSIGNMENT_NUMBER" : "253538",
+            "ASSIGNMENT_NUMBER" : "789123",
             "ORG_NAME" : "PHNOM PENH",
             "ASSIGNMENT_DATE" : "12/31/2015",
             "EFFECTIVE_DATE" : "12/29/2015"
