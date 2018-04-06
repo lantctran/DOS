@@ -7,7 +7,64 @@
         "status" : true
         }
     ],
-
+"GetUser" :
+  
+     {
+       "adId":null,
+       "gemsOrgCode":"217400",     
+       "govSupervisorAcknowledgeDate":"0001-01-01T00:00:00",
+       "govSupervisorAdId":"WASHDC\\VermaRK","location":"2401 E ST NW\nWS-813C (SA-01)",
+       "officeSymbol":"HR/EX/SDD",
+       "userEmail":"TranLTC@state.gov",
+       "validHrUserMsg":0,
+       "adUser":
+       {
+         "accountCreatedDate":"0001-01-01T00:00:00",
+         "accountModifiedDate":"0001-01-01T00:00:00",
+         "accountName":"WASHDC\\TranLTC",
+         "city":null,
+         "company":null,
+         "country":null,
+         "deliveryAddress":null,
+         "department":null,
+         "displayName":null,
+         "email":"TranLTC@state.gov",
+         "employeeNumber":null,
+         "firstName":"Lan Thuy",
+         "id":0,
+         "lastName":"Tran",
+         "middleName":"C",
+         "phone":"(202) 663 3859",
+         "postalCode":null,
+         "state":null,
+         "streetAddress":null,
+         "title":null
+         },
+         "supervisor":    
+         {
+           "accountCreatedDate":"0001-01-01T00:00:00",
+           "accountModifiedDate":"0001-01-01T00:00:00",
+           "accountName":"WASHDC\\VermaRK",
+           "city":null,
+           "company":null,
+           "country":null,
+           "deliveryAddress":null,
+           "department":null,
+           "displayName":null,
+           "email":"VermaRK@state.gov",
+           "employeeNumber":null,
+           "firstName":"Rajiv",
+           "id":0,"lastName":"Verma",
+           "middleName":"K",
+           "phone":null,
+           "postalCode":null,
+           "state":null,
+           "streetAddress":null,
+           "title":null
+           }
+          }
+      
+    ,
     "Travelers" : [
 {
 "TM_EVENT_GUID" : "BA0B0B69-255B-4A27-B8B6-05E241EFB018",
@@ -38,34 +95,7 @@
 "ASSIGNMENT_DATE" : "10/01/2015",
 "EFFECTIVE_DATE" : "ARR: 11/02/2015"}
 
-, {
-"TM_EVENT_GUID" : "12ED0534-4735-42F3-9F2F-CB8A92B04B5C",
-"FIRST_NAME" : "GUILLERMO",
-"LAST_NAME" : "DOE8",
-"EMAIL_ADDRESS" : "tranltc@state.gov",
-"TM_FORM_NAME" : "DS1707",
-"POS_NUM" : "S8540609",
-"POSITION_TITLE" : "SPECIAL AGENT",
-"ORG_CODE" : "171951",
-"LAST4SSN" : "6679",
-"ASSIGNMENT_NUMBER" : "250627",
-"ORG_NAME" : "DS/CI/IB",
-"ASSIGNMENT_DATE" : "04/01/2016",
-"EFFECTIVE_DATE" : "ARR: 04/04/2016"}
-, {
-"TM_EVENT_GUID" : "B3B465CD-449A-44E3-ABAE-B955C3572183",
-"FIRST_NAME" : "JOSEPH",
-"LAST_NAME" : "DOE9",
-"EMAIL_ADDRESS" : "tranltc@state.gov",
-"TM_FORM_NAME" : "DS1707",
-"POS_NUM" : "S8394211",
-"POSITION_TITLE" : "SPECIAL AGENT",
-"ORG_CODE" : "172586",
-"LAST4SSN" : "6679",
-"ASSIGNMENT_NUMBER" : "258239",
-"ORG_NAME" : "DS/MFO/HSRO",
-"ASSIGNMENT_DATE" : "05/16/2016",
-"EFFECTIVE_DATE" : "ARR: 05/16/2016"}
+
 
 
     ]
