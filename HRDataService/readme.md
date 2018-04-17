@@ -4,11 +4,11 @@ This section provides information and guidelines for the HR Data Service.  The H
 The benefits of n-tier architecture is well documented to provide for better maintainability, reusability, and scalability.  This is achieved by enabling easier adoption of new technologies and/or changes that can be applied to a single tier without the requirement to redesign the whole solution. In addition, n-tier applications can store domain logic and sensitive information in the middle-tier (business logic layer), which maintains isolation from the presentation layer.
 
 ## In This Section  
- [Usage Guidelines](usage-guidelines.md)  
- Describes guidelines for making Database calls using the HR Data Service.
- 
  [Application Setup Guidelines](application-setup-guidelines.md)  
  Describes guidelines for setting up and integrating HR Data Service within a .NET application.
+ 
+ [Usage Guidelines](usage-guidelines.md)  
+ Describes guidelines for making Database calls using the HR Data Service within a .NET application.
  
  [Server Setup Guidelines](server-setup-guidelines.md)  
  Describes guidelines for setting up HR Data Service on the server.
