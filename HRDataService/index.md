@@ -10,11 +10,11 @@ The HR Data Service should only be used by the Business Logic Layer.  It should 
  **X DO NOT** use HR Data Service directly within your Presentation Layer projects (i.e. MVC, Web API).    
   
 ## In This Section  
- [Application Setup Guidelines](application-setup-guidelines.md)  
- Describes guidelines for setting up and integrating HR Data Service within a .NET application.
+ [Application Setup Instructions](application-setup-instructions.md)  
+ Describes instructions for setting up and integrating HR Data Service within a .NET application.
  
  [Usage Guidelines](usage-guidelines.md)  
- Describes guidelines for making Database calls using the HR Data Service within a .NET application.
+ Describes guidelines and instructions for making Database calls using the HR Data Service within a .NET application.
  
  [Server Setup Guidelines](server-setup-guidelines.md)  
  Describes guidelines for setting up HR Data Service on the server.
